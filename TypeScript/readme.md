@@ -4,6 +4,7 @@
 
 * [Download pdf instructions](TypeScript-Lego.pdf)
 * [Download Studio model](TypeScript-10Year.io)
+* [Download brick list](TypeScript-10Year-PartList.csv)
 
 ## Lego part list
 
