@@ -2,8 +2,8 @@
 
 ![Lego model](TypeScript-10Year.png)
 
-[Download pdf instructions](TypeScript-Lego.pdf)
-[Download Studio model](TypeScript-10Year.io)
+* [Download pdf instructions](TypeScript-Lego.pdf)
+* [Download Studio model](TypeScript-10Year.io)
 
 ## Lego part list
 
